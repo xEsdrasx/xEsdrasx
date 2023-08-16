@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xEsdrasx
+- 👀 I’m interested in any subject that is directed towards learning DevOps.
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me https://www.linkedin.com/in/esdras-a-xavier/
